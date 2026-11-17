@@ -110,6 +110,3 @@ O assistente cria o `assistente_config.json` na primeira execução:
 - [ ] Relatório de acurácia do classificador por versão do modelo
 - [ ] Separar `assistente_auditoria.py` em módulos (mapa, regras, treino, servidor)
 
-## Licença
-
-Defina a licença do projeto (por exemplo, MIT) e adicione o arquivo `LICENSE`.
